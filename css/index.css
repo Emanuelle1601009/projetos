@@ -28,6 +28,9 @@
     background-color: #fcc2f2;
     color: darkmagenta;
 }
+.corroxo a:focus{
+    color: rgb(204, 50, 183);
+}
 body{
     overflow-x: hidden;
 }
